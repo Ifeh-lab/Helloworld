@@ -3,7 +3,7 @@
 
 hi HNG
 
-This is my first experience using github, i downloaded the figma app yesterday which also another first time experience.
+This is my first experience using github, i downloaded the figma app yesterday which is also another first time experience.
 I'm willing to commit to this program because I love design from the heart. 
 I'm 22 and this is also my first time taking the UI/UX experience course
 before this I've tried my hands on differnt course but it just didn't click for me
